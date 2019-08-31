@@ -1,4 +1,5 @@
-module multiplicacion(a,b);
+module multiplicacion(a,b,c);
 	input logic a;
-	output logic b;
+	input logic b;
+	output logic c;
 endmodule
